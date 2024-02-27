@@ -14,7 +14,7 @@
 </p>
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, NodeJS, PHP, Kotlin, Go (learning...)
+- 👨‍💻 TypeScript, JavaScript, NodeJS, PHP, Kotlin
 - ⚙️ React, NextJS, GraphQL, Apollo
 - 🖌️ SASS, CSS, TailwindCSS, StoryBook
 - 🌥️ AWS, Docker
@@ -67,6 +67,17 @@
     <td align="center" width="96">
       <img src="./img/aws.svg" width="48" height="48" alt="AWS" />
       <br>aws
+    </td>
+  </tr>
+</table>
+
+> Currently learning
+
+<table>
+  <tr>
+  <td align="center" width="96">
+      <img src="./img/go.svg" width="48" height="48" alt="GO" />
+      <br>GO
     </td>
   </tr>
 </table>
