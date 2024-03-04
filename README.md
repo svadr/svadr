@@ -13,12 +13,6 @@
   </a>
 </p>
 
-## Skills
-- 👨‍💻 TypeScript, JavaScript, NodeJS, PHP, Kotlin
-- ⚙️ React, NextJS, GraphQL, Apollo
-- 🖌️ SASS, CSS, TailwindCSS, StoryBook
-- 🌥️ AWS, Docker
-
 > Tools I like to work with:
 
 <table>
