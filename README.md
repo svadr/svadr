@@ -19,8 +19,6 @@
 - 🖌️ SASS, CSS, TailwindCSS, StoryBook
 - 🌥️ AWS, Docker
 
-<br />
-
 > Tools I like to work with:
 
 <table>
