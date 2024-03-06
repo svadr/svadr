@@ -3,7 +3,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/svadr?label=Followers&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/svadr?label=Stars&style=social)
-<a href="https://twitter.com/codingjes"><img src="https://img.shields.io/twitter/follow/t3dotgg?label=Twitter&style=social" alt="Follow @codingjes"></a>
+<a href="https://twitter.com/codingjes"><img src="https://img.shields.io/twitter/follow/t3dotgg?label=Twitter&style=social" alt="Twitter">Follow @codingjes</a>
 
 > Tools I like to work with:
 
