@@ -3,7 +3,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/svadr?label=Followers&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/svadr?label=Stars&style=social)
-![Twitter Follow](https://twitter.com/codingjes)(https://img.shields.io/twitter/follow/codingjes?style=social)
+[![Twitter Follow](https://twitter.com/codingjes)](https://img.shields.io/twitter/follow/codingjes?style=social)
 
 > Tools I like to work with:
 
