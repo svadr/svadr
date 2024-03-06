@@ -1,4 +1,4 @@
-<h1 align="left" id="macropower-title">:wave: Hello there <𝚌𝚘𝚍𝚎𝚛𝚜/>! I'm Salvador Beltrán</h1>
+<h1 align="left" id="macropower-title">:wave: Heya! I'm Salvador</h1>
 
 ![GitHub followers](https://img.shields.io/github/followers/svadr?label=Followers&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/svadr?label=Stars&style=social)
