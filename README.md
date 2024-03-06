@@ -1,4 +1,6 @@
-<h1 align="left" id="macropower-title">:wave: Heya! I'm Salvador</h1>
+### Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
+
+Beneath the stars, I tell stories and listen to the quiet night.
 
 ![GitHub followers](https://img.shields.io/github/followers/svadr?label=Followers&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/svadr?label=Stars&style=social)
