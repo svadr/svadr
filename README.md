@@ -4,6 +4,9 @@
 ![GitHub followers](https://img.shields.io/github/followers/svadr?label=Followers&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/svadr?label=Stars&style=social)
 <a href="https://twitter.com/codingjes"><img src="https://img.shields.io/twitter/follow/t3dotgg?label=Twitter&style=social" alt="Twitter"></a>
+<a href="https://linkedin.com/in/salvador-beltrán">
+<img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="linkedin page"/>
+</a>
 
 > Tools I like to work with:
 
