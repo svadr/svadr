@@ -1,5 +1,4 @@
 <h1 align="left" id="macropower-title">:wave: Hello there <𝚌𝚘𝚍𝚎𝚛𝚜/>! I'm Salvador Beltrán</h1>
-<img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 ![GitHub followers](https://img.shields.io/github/followers/svadr?label=Followers&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/svadr?label=Stars&style=social)
@@ -7,6 +6,8 @@
 <a href="https://linkedin.com/in/salvador-beltrán">
 <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="linkedin page"/>
 </a>
+
+<img align='middle' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 > Tools I like to work with:
 
