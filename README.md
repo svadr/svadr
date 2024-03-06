@@ -11,6 +11,7 @@
   <a href="https://twitter.com/codingjes">
     <img src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white" alt="twitter page"/>
   </a>
+  ![GitHub stars](https://img.shields.io/github/stars/danielrobertson?label=Stars&style=social)
 </p>
 
 > Tools I like to work with:
