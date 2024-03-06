@@ -12,9 +12,11 @@
   <a href="https://twitter.com/codingjes">
     <img src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white" alt="twitter page"/>
   </a>
-  
-  ![GitHub followers](https://img.shields.io/github/followers/svadr?label=Followers&style=social)
+  <a href="https://github.com/svadr">
 
+    ![GitHub followers](https://img.shields.io/github/followers/svadr?label=Followers&style=social)
+
+  </a> 
 </p>
 
 > Tools I like to work with:
