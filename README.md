@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="linkedin page"/>
 </a>
 
-> Tools I like to work with:
+> Tools I like to work with
 
 <table>
   <tr>
